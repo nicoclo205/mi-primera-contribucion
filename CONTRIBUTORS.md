@@ -5,6 +5,7 @@ Cada línea de esta lista es un Pull Request de alguien distinto. Agrega la tuya
 | Nombre | Comentario (opcional) |
 |---|---|
 | Nico | Armó este repo para la charla |
+| Juan Pa | contribuyó |
 
 <!--
 Para agregarte: agrega una fila nueva al final de la tabla, con tu nombre y algo corto si quieres (una carrera, una ciudad, tu editor de código favorito, lo que sea).
